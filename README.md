@@ -24,6 +24,7 @@
 Clone o projeto: Faça o clone do repositório para sua máquina local utilizando o comando:
 
 bash
+
 Copiar código
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
