@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'No build step required'"
+  },
+  "proxy": "http://localhost:8080"
+}

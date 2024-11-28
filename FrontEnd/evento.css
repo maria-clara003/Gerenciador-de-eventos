@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7fc;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-top: 0;
+    color: #4CAF50;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+.eventos-lista {
+    list-style: none;
+    padding: 0;
+}
+
+.eventos-lista li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eventos-lista li h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.eventos-lista li p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.btn-editar, .btn-deletar {
+    background-color: #FFC107;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.btn-editar:hover, .btn-deletar:hover {
+    background-color: #ff9800;
+}
+
+.btn-deletar {
+    background-color: #f44336;
+}
+
+.btn-deletar:hover {
+    background-color: #e53935;
+}

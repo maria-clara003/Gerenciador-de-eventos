@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+        <div class="login">
+            <h1>Login</h1>
+            <form id="formLogin" method="POST"> <!-- Altere para 'POST' -->
+                <label for="email" class="labels">E-mail</label> <br>
+                <input type="email" id="email" class="inputs" placeholder="E-mail" name="email" autocomplete="email" required> <br><br>
+                <label for="senha" class="labels">Senha</label> <br>
+                <input type="password" id="senha" class="inputs" placeholder="Digite sua senha" name="senha" autocomplete="current-password" required> <br><br>
+                <button type="submit" class="buttonlog">LOGIN</button>
+            </form>
+            <p>Ainda não tem conta? <a href="cadastro.html">Cadastra-se</a></p>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+</html>
