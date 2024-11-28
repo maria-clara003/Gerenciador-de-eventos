@@ -4,7 +4,7 @@ Este front-end oferece as principais funcionalidades de um gerenciador de evento
 *Fucionalidades*
 - Criação de usuários
 
-# Gerenciador-de-eventos![WhatsApp Image 2024-11-28 at 18 12 55](https://github.com/user-attachments/assets/3eafaac5-654e-4240-a559-4525e6d038a8)
+![WhatsApp Image 2024-11-28 at 18 12 55](https://github.com/user-attachments/assets/3eafaac5-654e-4240-a559-4525e6d038a8)
 ![WhatsApp Image 2024-11-28 at 18 14 05](https://github.com/user-attachments/assets/7b5e3c3e-1697-49a2-9c17-a7263af3e94a)
 
 - Autenticação de usuários via JWT
