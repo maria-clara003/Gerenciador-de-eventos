@@ -1,4 +1,5 @@
 *Sobre o projeto*
+
 Este front-end oferece as principais funcionalidades de um gerenciador de eventos, além de se integrar com uma API REST para armazenar suas tarefas. O sistema foi desenvolvido como projeto final da disciplina de Desenvolvimento de Plataformas Web.
 
 *Fucionalidades*
