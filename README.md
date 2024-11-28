@@ -48,5 +48,6 @@ Authorization: Bearer <seu-token-jwt>
 7. Testando o sistema: Acesse os endpoints utilizando ferramentas como Postman ou Insomnia. Certifique-se de incluir o token JWT nas requisições que exigem autenticação.
 
 8. 8. CORS: O sistema está configurado para permitir requisições do frontend em:
+
 http://localhost:5500
 http://127.0.0.1:5500
