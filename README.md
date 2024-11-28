@@ -39,7 +39,7 @@ src/main/resources/application.properties
 
 4. Execute o projeto: Use o Maven Wrapper fornecido no projeto para compilar e executar: mvnw.cmd spring-boot:run
 
-5. 5. Endpoints públicos: O sistema permite acesso público aos seguintes endpoints:
+5. Endpoints públicos: O sistema permite acesso público aos seguintes endpoints:
 - Registro: POST /api/usuarios/registrar
 - Login: POST /api/usuarios/login
 
